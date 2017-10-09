@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zeroclick Sample</string>
+    <string name="title_activity_zero_click_approval">ZeroClickApprovalActivity</string>
+    <string name="title_activity_zero_click_checkout">ZeroClickCheckout</string>
+</resources>
